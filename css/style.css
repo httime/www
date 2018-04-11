@@ -667,3 +667,7 @@ div.fsbanner {
 #ldcy dl:hover img{
 	transform:scale(1.08); -webkit-transform:scale(1.08);
 }
+
+#intro {
+	padding-bottom: 60px;
+}
