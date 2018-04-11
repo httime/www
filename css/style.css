@@ -122,6 +122,9 @@ h1, h2, h3, h4, h5, h6 {
   #header #logo img {
     max-height: 40px;
   }
+  .fa-navicon:before, .fa-reorder:before, .fa-bars:before{
+  	color: #333333;
+  }
 }
 .chs{text-indent:-9999px;height:0;line-height:0;font-size:0;overflow:hidden;}
 /*--------------------------------------------------------------
