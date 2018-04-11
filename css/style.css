@@ -626,7 +626,7 @@ div.fsbanner {
 	text-indent: 1em;
 }
 #intro article input,#intro article textarea{
-	width: 400px;
+	width: 90%;
 	height: 40px;
 	line-height: 40px;
 	border: 1px solid #DCDCDC;
