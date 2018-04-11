@@ -627,3 +627,43 @@ div.fsbanner {
 #intro article textarea{
 	height: 200px;
 }
+
+#intro .readme a{
+	display: inline-block;
+	width: 90%;
+	height: 200px;
+	position: absolute;
+	top: 90px;	
+	left: 5%;
+	text-align: left;
+	line-height: 40px;
+	cursor: pointer;
+	text-indent: 1em;
+	padding: 1%;
+	color: #333333;
+}
+
+#ldcy dl{
+	display: inline-block;
+	margin-right: 10px;
+	width: 180px;
+	height: 228px;
+	overflow: hidden;
+	position: relative;
+}
+#ldcy dl dd{
+	position: absolute;
+	height: 30px;
+	line-height: 30px;
+	color: white;
+	bottom: 10px;
+	background: rgba(0,0,0,.6);
+	text-indent: 1em;
+	width: 160px;
+}
+#ldcy dl img{
+	transition: all 1s ease 0s; -webkit-transform: all 1s ease 0s;
+}
+#ldcy dl:hover img{
+	transform:scale(1.08); -webkit-transform:scale(1.08);
+}
