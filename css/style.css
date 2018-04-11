@@ -687,3 +687,9 @@ div.fsbanner {
 #intro {
 	padding-bottom: 60px;
 }
+
+@media (max-width: 768px) {
+  	#intro article{
+  		width: 100%;
+  	}
+  	}
