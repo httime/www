@@ -121,6 +121,8 @@ h1, h2, h3, h4, h5, h6 {
   }
   #header #logo img {
     /*max-height: 50px;*/
+    vertical-align: top;
+    margin-top: -16px;
   }
   .fa-navicon:before, .fa-reorder:before, .fa-bars:before{
   	color: #333333;
