@@ -612,6 +612,13 @@ div.fsbanner {
 	width: 60%;
 	display: block;
 	display: none;
+	font-size: 12px;
+}
+#intro article h3{
+	font-size: 18px;
+}
+#intro #rczp dl{
+	font-size: 16px;
 }
 #intro article p{
 	text-align: left;
@@ -625,6 +632,13 @@ div.fsbanner {
 	border: 1px solid #DCDCDC;
 	border-radius: 5px;
 	text-indent: 1em;
+}
+#intro article input[type='button']{
+	text-indent: 0;
+}
+#intro article input[type='button']:hover{
+	color: white;
+	background: #064a71;
 }
 #intro article textarea{
 	height: 200px;
